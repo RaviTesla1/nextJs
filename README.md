@@ -43,3 +43,8 @@ NextJs simplifies the process of building a web application for production .
 
 
 Overall it allows you to do more coding rather than configuration 
+
+## Command to create NextJs project
+
+```javascript
+npx create-next-app@latest
