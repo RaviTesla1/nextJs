@@ -114,3 +114,9 @@ NExtjs automatically creates this file
 ### 404 
 
 It has a default page not found component if we write a wrong route
+
+
+### Route Params
+
+Every page in **App Router**  receive route parameters as a prop.
+The route params object contains route parameters as key - value pair .
